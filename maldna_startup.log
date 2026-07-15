@@ -1,0 +1,10 @@
+2026-07-15 08:18:03,337 - app.utils.blockchainUtils - WARNING - ⚠️ Blockchain configuration or connection failed: Missing blockchain configuration environment variables. Blockchain features will be disabled.
+2026-07-15 08:18:03,346 - app.services.blockchainService - ERROR - ⚠️ ❌ Missing blockchain environment configuration.
+2026-07-15 08:18:03,347 - app.services.blockchainService - ERROR - ⚠️ Failed to initialize blockchain service: ❌ Missing blockchain environment configuration.
+2026-07-15 08:18:28,302 - app.utils.blockchainUtils - WARNING - ⚠️ Blockchain configuration or connection failed: Missing blockchain configuration environment variables. Blockchain features will be disabled.
+2026-07-15 08:18:28,304 - app.services.blockchainService - ERROR - ⚠️ ❌ Missing blockchain environment configuration.
+2026-07-15 08:18:28,305 - app.services.blockchainService - ERROR - ⚠️ Failed to initialize blockchain service: ❌ Missing blockchain environment configuration.
+2026-07-15 08:19:01,740 - app.utils.blockchainUtils - WARNING - ⚠️ Blockchain configuration or connection failed: Missing blockchain configuration environment variables. Blockchain features will be disabled.
+2026-07-15 08:19:01,743 - app.services.blockchainService - ERROR - ⚠️ ❌ Missing blockchain environment configuration.
+2026-07-15 08:19:01,744 - app.services.blockchainService - ERROR - ⚠️ Failed to initialize blockchain service: ❌ Missing blockchain environment configuration.
+2026-07-15 08:19:42,357 - matplotlib.font_manager - INFO - generated new fontManager
